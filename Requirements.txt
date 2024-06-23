@@ -1,0 +1,17 @@
+Requirements
+
+-> Python 3.11.3
+-> MySQL 8.0.37
+
+Required Libraries
+
+-> tkinter
+-> time
+-> pandas
+-> pymysql
+-> ttkthemes
+
+IDE
+
+-> Executed in Pycharm Community Edition(JetBrains) Recommended
+-> Can also be executed in other IDE
